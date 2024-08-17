@@ -1,4 +1,4 @@
-# Least Squares Regression Task
+# Least Squares Regression
 
 ## Overview
 
